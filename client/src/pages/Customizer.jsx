@@ -59,7 +59,7 @@ const Customizer = () => {
 
       //? Use this commented code to get actual Images from AI,instead of dummy image
       //const response = await fetch("http://localhost:8080/api/v1/dalle", {
-      const response = await fetch("https://threejs-clothing.onrender.com//api/v1/dalle/dummy", {
+      const response = await fetch("https://threejs-clothing.onrender.com/api/v1/dalle/dummy", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
