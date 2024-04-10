@@ -8,3 +8,8 @@
 
 ### Future Scope
 -> Add more modes like Pant, shorts ,shirts, shoes ,skirts etc
+
+
+##### Deployed on Vercel 
+-> URL :  https://threejs-clothing.vercel.app/
+
